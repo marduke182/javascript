@@ -1,1 +1,1 @@
-import 'jest-enzyme';
+require('jest-enzyme');
